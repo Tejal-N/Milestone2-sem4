@@ -1,6 +1,6 @@
-#Gym Membership Management Backend
+# Gym Membership Management Backend
 
-#Project Overview
+## Project Overview
 This project is a secure and scalable Gym Membership Management Backend System developed using Node.js, Express.js, MongoDB, and JWT Authentication.
 
 The system supports:
@@ -11,7 +11,7 @@ Attendance Tracking
 Workout Management
 Admin Operations
 
-#Tech Stack
+## Tech Stack
 Node.js
 Express.js
 MongoDB
