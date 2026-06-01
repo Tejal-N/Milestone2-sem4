@@ -12,8 +12,8 @@ Workout Management
 Admin Operations
 
 ## Tech Stack
-Node.js
-Express.js
-MongoDB
-Mongoose
-JWT Authentication
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
